@@ -35,8 +35,7 @@ I would like to train the system on three models and compare the performances of
 - For time series data analysis from Yahoo! Finance into csv and for sentiment analysis from the Twitter.
 
 ### Data Cleaning and EDA
-During data cleaning of comments, I removed hyperlinks, html, punctuation, the same words with two or more letters, duplicate messages, whitespace, non standard characters.  Stop words were removed and some of the words in the commnents were lemmatized. The EDA result showed tha more than 20 most frequent words were unique classes in both physics and chemistry.
-
+During data cleaning of comments, I removed hyperlinks, html, punctuation, the same words with two or more letters, duplicate messages, whitespace, non standard characters.  Stop words were removed and some of the words in the commnents were lemmatized. 
 
 ### Preprocessing, Modeling and Evaluation
 #### Stock Data Preprocessing
